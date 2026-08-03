@@ -1,4 +1,3 @@
-````markdown
 # React Learning ⚛️
 
 This repository contains my React learning projects and practice code.
@@ -25,4 +24,3 @@ npm run dev
 ---
 
 Made with ❤️ by **Mohammad Seyam**
-````
