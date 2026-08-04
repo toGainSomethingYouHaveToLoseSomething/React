@@ -1,5 +1,5 @@
-function kgButton(){
+function KgButton(){
   return <button>subscribe</button>
 }
 
-export default kgButton;
+export default KgButton;
