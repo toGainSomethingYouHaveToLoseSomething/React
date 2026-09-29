@@ -1,0 +1,10 @@
+1.What is React->
+    -Javascript library to build dynamic and interactive user interface.
+    -Developed by Facebook in 2011.
+    -Currently most widely used JS library.
+    -Used to create single page applications.
+
+2.Working of DOM.
+    -Browser takes HTML and create DOM.
+    -JS helps usmodify DOM based on user actions of events
+    -in big applications, Working with DOM becomes complicated.
